@@ -1,0 +1,35 @@
+{
+
+    "developer": "RetroAkaMe",
+
+    "files": [
+
+        {
+
+            "default": true,
+
+            "filename": "squareman.gb",
+
+            "playable": true
+
+        }
+
+    ],
+
+    "platform": "GB",
+
+    "repository": "",
+
+    "screenshots": [
+
+        "squareman.png"
+
+    ],
+
+    "slug": "squareman",
+
+    "title": "Squareman",
+
+    "typetag": "homebrew"
+
+}
